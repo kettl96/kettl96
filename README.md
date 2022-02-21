@@ -2,12 +2,13 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-  - Telegram: [@alexandernechaenkov](https://t.me/alexandernechaenkov)<br>
-  - Email: [kettl110e4@gmail.com](mailto:kettl110e4@gmail.com)<br>
-  - Discord: kettl96#0171
+- 📫 How to reach me ... <br>
+       ***Contacts*** 
+   <img src='./assets/telegram.png' height=22px>   [@alexandernechaenkov](https://t.me/alexandernechaenkov)
+   <img src='./assets/GmailLogo.png' width=30px> [kettl110e4@gmail.com](mailto:kettl110e4@gmail.com)
+   <img src='./assets/discord.png' width=30px> kettl96#0171
 
-<img src='https://www.codewars.com/users/kettl96/badges/large' />
+<img src='https://www.codewars.com/users/kettl96/badges/large' >
 
 <!---
 kettl96/kettl96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
