@@ -1,13 +1,12 @@
 ***Contacts*** <br>
 <img src='./assets/telegram.png' width=30px>   [@alexandernechaenkov](https://t.me/alexandernechaenkov)<br>
-   <img src='./assets/GmailLogo.png' width=30px> [kettl110e4@gmail.com](mailto:kettl110e4@gmail.com)<br>
-   <img src='./assets/discord.png' width=30px> [kettl96#0171](https://discordapp.com/users/400360754588680204/)
+<img src='./assets/GmailLogo.png' width=30px> [kettl110e4@gmail.com](mailto:kettl110e4@gmail.com)<br>
+<img src='./assets/discord.png' width=30px> [kettl96#0171](https://discordapp.com/users/400360754588680204/)
 
 
 ***Languages and Tools:***<br>
 
-<img src='./assets/technology/html.svg'>
-<img src='./assets/technology/css.svg'>
+<img src='./assets/technology/html.svg'> <img src='./assets/technology/css.svg'>
 <img src='./assets/technology/js.svg'>
 <img src='./assets/technology/ts.svg'>
 <img src='./assets/technology/react.svg'>
