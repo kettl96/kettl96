@@ -1,6 +1,9 @@
 ***Contacts*** <br>
+<br>
 <img src='./assets/telegram.png' width=30px>   [@alexandernechaenkov](https://t.me/alexandernechaenkov)<br>
+<br>
 <img src='./assets/GmailLogo.png' width=30px> [kettl110e4@gmail.com](mailto:kettl110e4@gmail.com)<br>
+<br>
 <img src='./assets/discord.png' width=30px> [kettl96#0171](https://discordapp.com/users/400360754588680204/)
 
 
