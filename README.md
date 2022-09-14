@@ -6,8 +6,7 @@
 
 ***Languages and Tools:***<br>
 
-<img src='./assets/technology/html.svg'>
-<img src='./assets/technology/css.svg'>
+<img src='./assets/technology/html.svg'> <img src='./assets/technology/css.svg'>
 <img src='./assets/technology/js.svg'>
 <img src='./assets/technology/ts.svg'>
 <img src='./assets/technology/react.svg'>
